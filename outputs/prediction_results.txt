@@ -1,0 +1,6 @@
+HOUSE PRICE PREDICTION RESULTS
+========================================
+
+R² Score : 0.6341
+MAE      : 35788.06
+MSE      : 2806426667.25
